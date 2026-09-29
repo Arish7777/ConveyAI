@@ -98,7 +98,7 @@
     "passport-jwt": "^4.0.1",
     "pdf-parse": "^2.4.5",
     "pino": "^9.1.0",
-    "pino-http": "^10.1.0",
+    "pino-http": "^11.0.0",
     "pino-pretty": "^11.1.0",
     "react": "^18.3.1",
     "react-email": "^5.0.7",
