@@ -189,7 +189,7 @@ jobs:
           target: "/var/www/conveyai-backend"
 
       - name: Run remote deploy script
-        uses: appleboy/ssh-action@v0.1.10
+        uses: appleboy/ssh-action@v1.2.5
         with:
           host: ${{ secrets.EC2_HOST }}
           username: ${{ secrets.EC2_USER }}
