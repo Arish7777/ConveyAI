@@ -102,7 +102,7 @@
     "pino-pretty": "^11.1.0",
     "react": "^18.3.1",
     "react-email": "^5.0.7",
-    "redis": "^4.6.11",
+    "redis": "^6.2.1",
     "socket.io": "^4.7.5",
     "swagger-ui-express": "^5.0.1",
     "validator": "^13.12.0",
